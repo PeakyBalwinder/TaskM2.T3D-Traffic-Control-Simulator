@@ -1,0 +1,1104 @@
+Generated: Tue Mar 05 14:40:13 2024
+, Traffic Light ID: 2, Cars Passed: 18
+Generated: Tue Mar 05 14:40:16 2024
+, Traffic Light ID: 5, Cars Passed: 1
+Generated: Tue Mar 05 14:40:19 2024
+, Traffic Light ID: 5, Cars Passed: 25
+Generated: Tue Mar 05 14:40:22 2024
+, Traffic Light ID: 4, Cars Passed: 9
+Top 3 congested traffic lights at 1709629823 - 5 (Cars Passed: 26), 2 (Cars Passed: 18), 4 (Cars Passed: 9), 
+Generated: Tue Mar 05 14:40:25 2024
+, Traffic Light ID: 3, Cars Passed: 15
+Generated: Tue Mar 05 14:40:28 2024
+, Traffic Light ID: 1, Cars Passed: 46
+Generated: Tue Mar 05 14:40:31 2024
+, Traffic Light ID: 2, Cars Passed: 28
+Top 3 congested traffic lights at 1709629833 - 1 (Cars Passed: 46), 2 (Cars Passed: 46), 5 (Cars Passed: 26), 
+Generated: Tue Mar 05 14:40:34 2024
+, Traffic Light ID: 2, Cars Passed: 42
+Generated: Tue Mar 05 14:40:37 2024
+, Traffic Light ID: 1, Cars Passed: 43
+Generated: Tue Mar 05 14:40:40 2024
+, Traffic Light ID: 3, Cars Passed: 37
+Top 3 congested traffic lights at 1709629843 - 1 (Cars Passed: 89), 2 (Cars Passed: 88), 3 (Cars Passed: 52), 
+Generated: Tue Mar 05 14:40:43 2024
+, Traffic Light ID: 2, Cars Passed: 5
+Generated: Tue Mar 05 14:40:46 2024
+, Traffic Light ID: 3, Cars Passed: 4
+Generated: Tue Mar 05 14:40:49 2024
+, Traffic Light ID: 3, Cars Passed: 33
+Generated: Tue Mar 05 14:40:52 2024
+, Traffic Light ID: 2, Cars Passed: 17
+Top 3 congested traffic lights at 1709629853 - 2 (Cars Passed: 110), 1 (Cars Passed: 89), 3 (Cars Passed: 89), 
+Generated: Tue Mar 05 14:40:55 2024
+, Traffic Light ID: 4, Cars Passed: 46
+Generated: Tue Mar 05 14:40:58 2024
+, Traffic Light ID: 3, Cars Passed: 27
+Generated: Tue Mar 05 14:41:01 2024
+, Traffic Light ID: 2, Cars Passed: 39
+Top 3 congested traffic lights at 1709629863 - 2 (Cars Passed: 149), 3 (Cars Passed: 116), 1 (Cars Passed: 89), 
+Generated: Tue Mar 05 14:41:04 2024
+, Traffic Light ID: 5, Cars Passed: 13
+Generated: Tue Mar 05 14:41:07 2024
+, Traffic Light ID: 3, Cars Passed: 50
+Generated: Tue Mar 05 14:41:10 2024
+, Traffic Light ID: 1, Cars Passed: 45
+Top 3 congested traffic lights at 1709629873 - 3 (Cars Passed: 166), 2 (Cars Passed: 149), 1 (Cars Passed: 134), 
+Generated: Tue Mar 05 14:41:13 2024
+, Traffic Light ID: 4, Cars Passed: 12
+Generated: Tue Mar 05 14:41:16 2024
+, Traffic Light ID: 3, Cars Passed: 34
+Generated: Tue Mar 05 14:41:19 2024
+, Traffic Light ID: 4, Cars Passed: 15
+Generated: Tue Mar 05 14:41:22 2024
+, Traffic Light ID: 2, Cars Passed: 12
+Top 3 congested traffic lights at 1709629883 - 3 (Cars Passed: 200), 2 (Cars Passed: 161), 1 (Cars Passed: 134), 
+Generated: Tue Mar 05 14:41:25 2024
+, Traffic Light ID: 4, Cars Passed: 19
+Generated: Tue Mar 05 14:41:28 2024
+, Traffic Light ID: 3, Cars Passed: 45
+Generated: Tue Mar 05 14:41:31 2024
+, Traffic Light ID: 3, Cars Passed: 8
+Top 3 congested traffic lights at 1709629893 - 3 (Cars Passed: 253), 2 (Cars Passed: 161), 1 (Cars Passed: 134), 
+Generated: Tue Mar 05 14:41:34 2024
+, Traffic Light ID: 3, Cars Passed: 10
+Generated: Tue Mar 05 14:41:37 2024
+, Traffic Light ID: 4, Cars Passed: 42
+Generated: Tue Mar 05 14:41:40 2024
+, Traffic Light ID: 5, Cars Passed: 29
+Top 3 congested traffic lights at 1709629903 - 3 (Cars Passed: 263), 2 (Cars Passed: 161), 4 (Cars Passed: 143), 
+Generated: Tue Mar 05 14:41:43 2024
+, Traffic Light ID: 2, Cars Passed: 36
+Generated: Tue Mar 05 14:41:46 2024
+, Traffic Light ID: 1, Cars Passed: 43
+Generated: Tue Mar 05 14:41:49 2024
+, Traffic Light ID: 4, Cars Passed: 7
+Generated: Tue Mar 05 14:41:52 2024
+, Traffic Light ID: 1, Cars Passed: 43
+Top 3 congested traffic lights at 1709629913 - 3 (Cars Passed: 263), 1 (Cars Passed: 220), 2 (Cars Passed: 197), 
+Generated: Tue Mar 05 14:41:55 2024
+, Traffic Light ID: 5, Cars Passed: 49
+Generated: Tue Mar 05 14:41:58 2024
+, Traffic Light ID: 2, Cars Passed: 6
+Generated: Tue Mar 05 14:42:01 2024
+, Traffic Light ID: 1, Cars Passed: 30
+Top 3 congested traffic lights at 1709629923 - 3 (Cars Passed: 263), 1 (Cars Passed: 250), 2 (Cars Passed: 203), 
+Generated: Tue Mar 05 14:42:04 2024
+, Traffic Light ID: 1, Cars Passed: 1
+Generated: Tue Mar 05 14:42:08 2024
+, Traffic Light ID: 2, Cars Passed: 2
+Generated: Tue Mar 05 14:42:11 2024
+, Traffic Light ID: 4, Cars Passed: 49
+Top 3 congested traffic lights at 1709629933 - 3 (Cars Passed: 263), 1 (Cars Passed: 251), 2 (Cars Passed: 205), 
+Generated: Tue Mar 05 14:42:14 2024
+, Traffic Light ID: 5, Cars Passed: 24
+Generated: Tue Mar 05 14:42:17 2024
+, Traffic Light ID: 5, Cars Passed: 5
+Generated: Tue Mar 05 14:42:20 2024
+, Traffic Light ID: 2, Cars Passed: 41
+Generated: Tue Mar 05 14:42:23 2024
+, Traffic Light ID: 2, Cars Passed: 27
+Top 3 congested traffic lights at 1709629943 - 2 (Cars Passed: 273), 3 (Cars Passed: 263), 1 (Cars Passed: 251), 
+Generated: Tue Mar 05 14:42:26 2024
+, Traffic Light ID: 2, Cars Passed: 9
+Generated: Tue Mar 05 14:42:29 2024
+, Traffic Light ID: 5, Cars Passed: 40
+Generated: Tue Mar 05 14:42:32 2024
+, Traffic Light ID: 2, Cars Passed: 24
+Top 3 congested traffic lights at 1709629953 - 2 (Cars Passed: 306), 3 (Cars Passed: 263), 1 (Cars Passed: 251), 
+Generated: Tue Mar 05 14:42:35 2024
+, Traffic Light ID: 3, Cars Passed: 39
+Generated: Tue Mar 05 14:42:38 2024
+, Traffic Light ID: 4, Cars Passed: 33
+Generated: Tue Mar 05 14:42:41 2024
+, Traffic Light ID: 5, Cars Passed: 42
+Top 3 congested traffic lights at 1709629963 - 2 (Cars Passed: 306), 3 (Cars Passed: 302), 1 (Cars Passed: 251), 
+Generated: Tue Mar 05 14:42:44 2024
+, Traffic Light ID: 4, Cars Passed: 16
+Generated: Tue Mar 05 14:42:47 2024
+, Traffic Light ID: 5, Cars Passed: 9
+Generated: Tue Mar 05 14:42:50 2024
+, Traffic Light ID: 5, Cars Passed: 31
+Generated: Tue Mar 05 14:42:53 2024
+, Traffic Light ID: 3, Cars Passed: 7
+Top 3 congested traffic lights at 1709629973 - 3 (Cars Passed: 309), 2 (Cars Passed: 306), 5 (Cars Passed: 268), 
+Generated: Tue Mar 05 14:42:56 2024
+, Traffic Light ID: 4, Cars Passed: 37
+Generated: Tue Mar 05 14:42:59 2024
+, Traffic Light ID: 2, Cars Passed: 46
+Generated: Tue Mar 05 14:43:02 2024
+, Traffic Light ID: 5, Cars Passed: 23
+Top 3 congested traffic lights at 1709629983 - 2 (Cars Passed: 352), 3 (Cars Passed: 309), 5 (Cars Passed: 291), 
+Generated: Tue Mar 05 14:43:05 2024
+, Traffic Light ID: 1, Cars Passed: 30
+Generated: Tue Mar 05 14:43:08 2024
+, Traffic Light ID: 3, Cars Passed: 24
+Generated: Tue Mar 05 14:43:11 2024
+, Traffic Light ID: 3, Cars Passed: 13
+Top 3 congested traffic lights at 1709629993 - 2 (Cars Passed: 352), 3 (Cars Passed: 346), 5 (Cars Passed: 291), 
+Generated: Tue Mar 05 14:43:14 2024
+, Traffic Light ID: 2, Cars Passed: 41
+Generated: Tue Mar 05 14:43:17 2024
+, Traffic Light ID: 2, Cars Passed: 37
+Generated: Tue Mar 05 14:43:20 2024
+, Traffic Light ID: 1, Cars Passed: 18
+Generated: Tue Mar 05 14:43:23 2024
+, Traffic Light ID: 1, Cars Passed: 25
+Top 3 congested traffic lights at 1709630003 - 2 (Cars Passed: 430), 3 (Cars Passed: 346), 1 (Cars Passed: 324), 
+Generated: Tue Mar 05 14:43:26 2024
+, Traffic Light ID: 2, Cars Passed: 3
+Generated: Tue Mar 05 14:43:29 2024
+, Traffic Light ID: 1, Cars Passed: 1
+Generated: Tue Mar 05 14:43:32 2024
+, Traffic Light ID: 2, Cars Passed: 25
+Top 3 congested traffic lights at 1709630013 - 2 (Cars Passed: 458), 3 (Cars Passed: 346), 1 (Cars Passed: 325), 
+Generated: Tue Mar 05 14:43:35 2024
+, Traffic Light ID: 2, Cars Passed: 31
+Generated: Tue Mar 05 14:43:38 2024
+, Traffic Light ID: 3, Cars Passed: 42
+Generated: Tue Mar 05 14:43:41 2024
+, Traffic Light ID: 3, Cars Passed: 38
+Top 3 congested traffic lights at 1709630023 - 2 (Cars Passed: 489), 3 (Cars Passed: 426), 1 (Cars Passed: 325), 
+Generated: Tue Mar 05 14:43:44 2024
+, Traffic Light ID: 3, Cars Passed: 38
+Generated: Tue Mar 05 14:43:47 2024
+, Traffic Light ID: 4, Cars Passed: 34
+Generated: Tue Mar 05 14:43:50 2024
+, Traffic Light ID: 1, Cars Passed: 10
+Generated: Tue Mar 05 14:43:53 2024
+, Traffic Light ID: 5, Cars Passed: 9
+Top 3 congested traffic lights at 1709630033 - 2 (Cars Passed: 489), 3 (Cars Passed: 464), 1 (Cars Passed: 335), 
+Generated: Tue Mar 05 14:43:56 2024
+, Traffic Light ID: 2, Cars Passed: 39
+Generated: Tue Mar 05 14:43:59 2024
+, Traffic Light ID: 3, Cars Passed: 47
+Generated: Tue Mar 05 14:44:02 2024
+, Traffic Light ID: 2, Cars Passed: 31
+Top 3 congested traffic lights at 1709630043 - 2 (Cars Passed: 559), 3 (Cars Passed: 511), 1 (Cars Passed: 335), 
+Generated: Tue Mar 05 14:44:05 2024
+, Traffic Light ID: 4, Cars Passed: 19
+Generated: Tue Mar 05 14:44:08 2024
+, Traffic Light ID: 1, Cars Passed: 42
+Generated: Tue Mar 05 14:44:11 2024
+, Traffic Light ID: 3, Cars Passed: 6
+Top 3 congested traffic lights at 1709630053 - 2 (Cars Passed: 559), 3 (Cars Passed: 517), 1 (Cars Passed: 377), 
+Generated: Tue Mar 05 14:44:14 2024
+, Traffic Light ID: 1, Cars Passed: 10
+Generated: Tue Mar 05 14:44:17 2024
+, Traffic Light ID: 5, Cars Passed: 38
+Generated: Tue Mar 05 14:44:20 2024
+, Traffic Light ID: 4, Cars Passed: 34
+Generated: Tue Mar 05 14:44:23 2024
+, Traffic Light ID: 1, Cars Passed: 42
+Top 3 congested traffic lights at 1709630063 - 2 (Cars Passed: 559), 3 (Cars Passed: 517), 1 (Cars Passed: 429), 
+Generated: Tue Mar 05 14:44:26 2024
+, Traffic Light ID: 3, Cars Passed: 1
+Generated: Tue Mar 05 14:44:29 2024
+, Traffic Light ID: 2, Cars Passed: 37
+Generated: Tue Mar 05 14:44:32 2024
+, Traffic Light ID: 5, Cars Passed: 21
+Top 3 congested traffic lights at 1709630073 - 2 (Cars Passed: 596), 3 (Cars Passed: 518), 1 (Cars Passed: 429), 
+Generated: Tue Mar 05 14:44:35 2024
+, Traffic Light ID: 2, Cars Passed: 22
+Generated: Tue Mar 05 14:44:38 2024
+, Traffic Light ID: 4, Cars Passed: 50
+Generated: Tue Mar 05 14:44:41 2024
+, Traffic Light ID: 4, Cars Passed: 35
+Top 3 congested traffic lights at 1709630083 - 2 (Cars Passed: 618), 3 (Cars Passed: 518), 4 (Cars Passed: 457), 
+Generated: Tue Mar 05 14:44:44 2024
+, Traffic Light ID: 2, Cars Passed: 35
+Generated: Tue Mar 05 14:44:47 2024
+, Traffic Light ID: 4, Cars Passed: 50
+Generated: Tue Mar 05 14:44:50 2024
+, Traffic Light ID: 4, Cars Passed: 39
+Generated: Tue Mar 05 14:44:53 2024
+, Traffic Light ID: 1, Cars Passed: 39
+Top 3 congested traffic lights at 1709630093 - 2 (Cars Passed: 653), 4 (Cars Passed: 546), 3 (Cars Passed: 518), 
+Generated: Tue Mar 05 14:44:56 2024
+, Traffic Light ID: 3, Cars Passed: 18
+Generated: Tue Mar 05 14:44:59 2024
+, Traffic Light ID: 4, Cars Passed: 44
+Generated: Tue Mar 05 14:45:02 2024
+, Traffic Light ID: 4, Cars Passed: 34
+Top 3 congested traffic lights at 1709630103 - 2 (Cars Passed: 653), 4 (Cars Passed: 624), 3 (Cars Passed: 536), 
+Generated: Tue Mar 05 14:45:05 2024
+, Traffic Light ID: 3, Cars Passed: 22
+Generated: Tue Mar 05 14:45:08 2024
+, Traffic Light ID: 1, Cars Passed: 18
+Generated: Tue Mar 05 14:45:11 2024
+, Traffic Light ID: 4, Cars Passed: 15
+Top 3 congested traffic lights at 1709630113 - 2 (Cars Passed: 653), 4 (Cars Passed: 639), 3 (Cars Passed: 558), 
+Generated: Tue Mar 05 14:45:14 2024
+, Traffic Light ID: 5, Cars Passed: 17
+Generated: Tue Mar 05 14:45:17 2024
+, Traffic Light ID: 1, Cars Passed: 2
+Generated: Tue Mar 05 14:45:20 2024
+, Traffic Light ID: 1, Cars Passed: 50
+Generated: Tue Mar 05 14:45:23 2024
+, Traffic Light ID: 5, Cars Passed: 7
+Top 3 congested traffic lights at 1709630123 - 2 (Cars Passed: 653), 4 (Cars Passed: 639), 3 (Cars Passed: 558), 
+Generated: Tue Mar 05 14:45:26 2024
+, Traffic Light ID: 4, Cars Passed: 4
+Generated: Tue Mar 05 14:45:29 2024
+, Traffic Light ID: 5, Cars Passed: 9
+Generated: Tue Mar 05 14:45:32 2024
+, Traffic Light ID: 5, Cars Passed: 10
+Top 3 congested traffic lights at 1709630133 - 2 (Cars Passed: 653), 4 (Cars Passed: 643), 3 (Cars Passed: 558), 
+Generated: Tue Mar 05 14:45:35 2024
+, Traffic Light ID: 5, Cars Passed: 3
+Generated: Tue Mar 05 14:45:38 2024
+, Traffic Light ID: 1, Cars Passed: 36
+Generated: Tue Mar 05 14:45:41 2024
+, Traffic Light ID: 4, Cars Passed: 44
+Top 3 congested traffic lights at 1709630144 - 4 (Cars Passed: 687), 2 (Cars Passed: 653), 1 (Cars Passed: 574), 
+Generated: Tue Mar 05 14:45:44 2024
+, Traffic Light ID: 4, Cars Passed: 38
+Generated: Tue Mar 05 14:45:47 2024
+, Traffic Light ID: 5, Cars Passed: 4
+Generated: Tue Mar 05 14:45:50 2024
+, Traffic Light ID: 4, Cars Passed: 1
+Generated: Tue Mar 05 14:45:53 2024
+, Traffic Light ID: 4, Cars Passed: 19
+Top 3 congested traffic lights at 1709630154 - 4 (Cars Passed: 745), 2 (Cars Passed: 653), 1 (Cars Passed: 574), 
+Generated: Tue Mar 05 14:45:56 2024
+, Traffic Light ID: 1, Cars Passed: 47
+Generated: Tue Mar 05 14:45:59 2024
+, Traffic Light ID: 4, Cars Passed: 32
+Generated: Tue Mar 05 14:46:02 2024
+, Traffic Light ID: 5, Cars Passed: 49
+Top 3 congested traffic lights at 1709630164 - 4 (Cars Passed: 777), 2 (Cars Passed: 653), 1 (Cars Passed: 621), 
+Generated: Tue Mar 05 14:46:05 2024
+, Traffic Light ID: 5, Cars Passed: 8
+Generated: Tue Mar 05 14:46:08 2024
+, Traffic Light ID: 3, Cars Passed: 23
+Generated: Tue Mar 05 14:46:11 2024
+, Traffic Light ID: 4, Cars Passed: 43
+Top 3 congested traffic lights at 1709630174 - 4 (Cars Passed: 820), 2 (Cars Passed: 653), 1 (Cars Passed: 621), 
+Generated: Tue Mar 05 14:46:14 2024
+, Traffic Light ID: 4, Cars Passed: 30
+Generated: Tue Mar 05 14:46:17 2024
+, Traffic Light ID: 1, Cars Passed: 8
+Generated: Tue Mar 05 14:46:20 2024
+, Traffic Light ID: 4, Cars Passed: 42
+Generated: Tue Mar 05 14:46:23 2024
+, Traffic Light ID: 1, Cars Passed: 39
+Top 3 congested traffic lights at 1709630184 - 4 (Cars Passed: 892), 1 (Cars Passed: 668), 2 (Cars Passed: 653), 
+Generated: Tue Mar 05 14:46:26 2024
+, Traffic Light ID: 2, Cars Passed: 12
+Generated: Tue Mar 05 14:46:29 2024
+, Traffic Light ID: 3, Cars Passed: 35
+Generated: Tue Mar 05 14:46:32 2024
+, Traffic Light ID: 3, Cars Passed: 6
+Top 3 congested traffic lights at 1709630194 - 4 (Cars Passed: 892), 1 (Cars Passed: 668), 2 (Cars Passed: 665), 
+Generated: Tue Mar 05 14:46:35 2024
+, Traffic Light ID: 4, Cars Passed: 47
+Generated: Tue Mar 05 14:46:38 2024
+, Traffic Light ID: 3, Cars Passed: 37
+Generated: Tue Mar 05 14:46:41 2024
+, Traffic Light ID: 1, Cars Passed: 34
+Top 3 congested traffic lights at 1709630204 - 4 (Cars Passed: 939), 1 (Cars Passed: 702), 2 (Cars Passed: 665), 
+Generated: Tue Mar 05 14:46:44 2024
+, Traffic Light ID: 5, Cars Passed: 43
+Generated: Tue Mar 05 14:46:47 2024
+, Traffic Light ID: 5, Cars Passed: 17
+Generated: Tue Mar 05 14:46:50 2024
+, Traffic Light ID: 2, Cars Passed: 49
+Generated: Tue Mar 05 14:46:53 2024
+, Traffic Light ID: 3, Cars Passed: 2
+Top 3 congested traffic lights at 1709630214 - 4 (Cars Passed: 939), 2 (Cars Passed: 714), 1 (Cars Passed: 702), 
+Generated: Tue Mar 05 14:46:56 2024
+, Traffic Light ID: 2, Cars Passed: 50
+Generated: Tue Mar 05 14:46:59 2024
+, Traffic Light ID: 3, Cars Passed: 27
+Generated: Tue Mar 05 14:47:02 2024
+, Traffic Light ID: 3, Cars Passed: 40
+Top 3 congested traffic lights at 1709630224 - 4 (Cars Passed: 939), 2 (Cars Passed: 764), 3 (Cars Passed: 728), 
+Generated: Tue Mar 05 14:47:05 2024
+, Traffic Light ID: 1, Cars Passed: 13
+Generated: Tue Mar 05 14:47:08 2024
+, Traffic Light ID: 1, Cars Passed: 11
+Generated: Tue Mar 05 14:47:11 2024
+, Traffic Light ID: 4, Cars Passed: 20
+Top 3 congested traffic lights at 1709630234 - 4 (Cars Passed: 959), 2 (Cars Passed: 764), 3 (Cars Passed: 728), 
+Generated: Tue Mar 05 14:47:14 2024
+, Traffic Light ID: 2, Cars Passed: 39
+Generated: Tue Mar 05 14:47:17 2024
+, Traffic Light ID: 2, Cars Passed: 40
+Generated: Tue Mar 05 14:47:20 2024
+, Traffic Light ID: 1, Cars Passed: 24
+Generated: Tue Mar 05 14:47:23 2024
+, Traffic Light ID: 3, Cars Passed: 36
+Top 3 congested traffic lights at 1709630244 - 4 (Cars Passed: 959), 2 (Cars Passed: 843), 3 (Cars Passed: 764), 
+Generated: Tue Mar 05 14:47:26 2024
+, Traffic Light ID: 3, Cars Passed: 36
+Generated: Tue Mar 05 14:47:29 2024
+, Traffic Light ID: 4, Cars Passed: 27
+Generated: Tue Mar 05 14:47:32 2024
+, Traffic Light ID: 3, Cars Passed: 8
+Top 3 congested traffic lights at 1709630254 - 4 (Cars Passed: 986), 2 (Cars Passed: 843), 3 (Cars Passed: 808), 
+Generated: Tue Mar 05 14:47:35 2024
+, Traffic Light ID: 3, Cars Passed: 33
+Generated: Tue Mar 05 14:47:38 2024
+, Traffic Light ID: 5, Cars Passed: 5
+Generated: Tue Mar 05 14:47:41 2024
+, Traffic Light ID: 2, Cars Passed: 40
+Top 3 congested traffic lights at 1709630264 - 4 (Cars Passed: 986), 2 (Cars Passed: 883), 3 (Cars Passed: 841), 
+Generated: Tue Mar 05 14:47:44 2024
+, Traffic Light ID: 2, Cars Passed: 30
+Generated: Tue Mar 05 14:47:47 2024
+, Traffic Light ID: 4, Cars Passed: 43
+Generated: Tue Mar 05 14:47:51 2024
+, Traffic Light ID: 1, Cars Passed: 6
+Generated: Tue Mar 05 14:47:54 2024
+, Traffic Light ID: 5, Cars Passed: 50
+Top 3 congested traffic lights at 1709630274 - 4 (Cars Passed: 1029), 2 (Cars Passed: 913), 3 (Cars Passed: 841), 
+Generated: Tue Mar 05 14:47:57 2024
+, Traffic Light ID: 2, Cars Passed: 13
+Generated: Tue Mar 05 14:48:00 2024
+, Traffic Light ID: 1, Cars Passed: 11
+Generated: Tue Mar 05 14:48:03 2024
+, Traffic Light ID: 4, Cars Passed: 4
+Top 3 congested traffic lights at 1709630284 - 4 (Cars Passed: 1033), 2 (Cars Passed: 926), 3 (Cars Passed: 841), 
+Generated: Tue Mar 05 14:48:06 2024
+, Traffic Light ID: 5, Cars Passed: 24
+Generated: Tue Mar 05 14:48:09 2024
+, Traffic Light ID: 5, Cars Passed: 47
+Generated: Tue Mar 05 14:48:12 2024
+, Traffic Light ID: 3, Cars Passed: 30
+Top 3 congested traffic lights at 1709630294 - 4 (Cars Passed: 1033), 2 (Cars Passed: 926), 3 (Cars Passed: 871), 
+Generated: Tue Mar 05 14:48:15 2024
+, Traffic Light ID: 5, Cars Passed: 38
+Generated: Tue Mar 05 14:48:18 2024
+, Traffic Light ID: 2, Cars Passed: 50
+Generated: Tue Mar 05 14:48:21 2024
+, Traffic Light ID: 4, Cars Passed: 46
+Generated: Tue Mar 05 14:48:24 2024
+, Traffic Light ID: 3, Cars Passed: 17
+Top 3 congested traffic lights at 1709630304 - 4 (Cars Passed: 1079), 2 (Cars Passed: 976), 3 (Cars Passed: 888), 
+Generated: Tue Mar 05 14:48:27 2024
+, Traffic Light ID: 2, Cars Passed: 6
+Generated: Tue Mar 05 14:48:30 2024
+, Traffic Light ID: 4, Cars Passed: 33
+Generated: Tue Mar 05 14:48:33 2024
+, Traffic Light ID: 1, Cars Passed: 35
+Top 3 congested traffic lights at 1709630314 - 4 (Cars Passed: 1112), 2 (Cars Passed: 982), 3 (Cars Passed: 888), 
+Generated: Tue Mar 05 14:48:36 2024
+, Traffic Light ID: 5, Cars Passed: 2
+Generated: Tue Mar 05 14:48:39 2024
+, Traffic Light ID: 2, Cars Passed: 22
+Generated: Tue Mar 05 14:48:42 2024
+, Traffic Light ID: 2, Cars Passed: 14
+Top 3 congested traffic lights at 1709630324 - 4 (Cars Passed: 1112), 2 (Cars Passed: 1018), 3 (Cars Passed: 888), 
+Generated: Tue Mar 05 14:48:45 2024
+, Traffic Light ID: 4, Cars Passed: 6
+Generated: Tue Mar 05 14:48:48 2024
+, Traffic Light ID: 1, Cars Passed: 4
+Generated: Tue Mar 05 14:48:51 2024
+, Traffic Light ID: 3, Cars Passed: 9
+Top 3 congested traffic lights at 1709630334 - 4 (Cars Passed: 1118), 2 (Cars Passed: 1018), 3 (Cars Passed: 897), 
+Generated: Tue Mar 05 14:48:54 2024
+, Traffic Light ID: 3, Cars Passed: 46
+Generated: Tue Mar 05 14:48:57 2024
+, Traffic Light ID: 4, Cars Passed: 7
+Generated: Tue Mar 05 14:49:00 2024
+, Traffic Light ID: 2, Cars Passed: 9
+Generated: Tue Mar 05 14:49:03 2024
+, Traffic Light ID: 2, Cars Passed: 33
+Top 3 congested traffic lights at 1709630344 - 4 (Cars Passed: 1125), 2 (Cars Passed: 1060), 3 (Cars Passed: 943), 
+Generated: Tue Mar 05 14:49:06 2024
+, Traffic Light ID: 2, Cars Passed: 45
+Generated: Tue Mar 05 14:49:09 2024
+, Traffic Light ID: 2, Cars Passed: 23
+Generated: Tue Mar 05 14:49:12 2024
+, Traffic Light ID: 5, Cars Passed: 12
+Top 3 congested traffic lights at 1709630354 - 2 (Cars Passed: 1128), 4 (Cars Passed: 1125), 3 (Cars Passed: 943), 
+Generated: Tue Mar 05 14:49:15 2024
+, Traffic Light ID: 1, Cars Passed: 1
+Generated: Tue Mar 05 14:49:18 2024
+, Traffic Light ID: 4, Cars Passed: 17
+Generated: Tue Mar 05 14:49:21 2024
+, Traffic Light ID: 5, Cars Passed: 10
+Top 3 congested traffic lights at 1709630364 - 4 (Cars Passed: 1142), 2 (Cars Passed: 1128), 3 (Cars Passed: 943), 
+Generated: Tue Mar 05 14:49:24 2024
+, Traffic Light ID: 3, Cars Passed: 40
+Generated: Tue Mar 05 14:49:27 2024
+, Traffic Light ID: 4, Cars Passed: 25
+Generated: Tue Mar 05 14:49:30 2024
+, Traffic Light ID: 5, Cars Passed: 11
+Generated: Tue Mar 05 14:49:33 2024
+, Traffic Light ID: 1, Cars Passed: 50
+Top 3 congested traffic lights at 1709630374 - 4 (Cars Passed: 1167), 2 (Cars Passed: 1128), 3 (Cars Passed: 983), 
+Generated: Tue Mar 05 14:49:36 2024
+, Traffic Light ID: 2, Cars Passed: 14
+Generated: Tue Mar 05 14:49:39 2024
+, Traffic Light ID: 5, Cars Passed: 23
+Generated: Tue Mar 05 14:49:42 2024
+, Traffic Light ID: 4, Cars Passed: 19
+Top 3 congested traffic lights at 1709630384 - 4 (Cars Passed: 1186), 2 (Cars Passed: 1142), 3 (Cars Passed: 983), 
+Generated: Tue Mar 05 14:49:45 2024
+, Traffic Light ID: 3, Cars Passed: 6
+Generated: Tue Mar 05 14:49:48 2024
+, Traffic Light ID: 4, Cars Passed: 42
+Generated: Tue Mar 05 14:49:51 2024
+, Traffic Light ID: 3, Cars Passed: 26
+Top 3 congested traffic lights at 1709630394 - 4 (Cars Passed: 1228), 2 (Cars Passed: 1142), 3 (Cars Passed: 1015), 
+Generated: Tue Mar 05 14:49:54 2024
+, Traffic Light ID: 3, Cars Passed: 15
+Generated: Tue Mar 05 14:49:57 2024
+, Traffic Light ID: 5, Cars Passed: 25
+Generated: Tue Mar 05 14:50:00 2024
+, Traffic Light ID: 5, Cars Passed: 25
+Generated: Tue Mar 05 14:50:03 2024
+, Traffic Light ID: 3, Cars Passed: 10
+Top 3 congested traffic lights at 1709630404 - 4 (Cars Passed: 1228), 2 (Cars Passed: 1142), 3 (Cars Passed: 1040), 
+Generated: Tue Mar 05 14:50:06 2024
+, Traffic Light ID: 4, Cars Passed: 21
+Generated: Tue Mar 05 14:50:09 2024
+, Traffic Light ID: 3, Cars Passed: 48
+Generated: Tue Mar 05 14:50:12 2024
+, Traffic Light ID: 4, Cars Passed: 28
+Top 3 congested traffic lights at 1709630414 - 4 (Cars Passed: 1277), 2 (Cars Passed: 1142), 3 (Cars Passed: 1088), 
+Generated: Tue Mar 05 14:50:15 2024
+, Traffic Light ID: 4, Cars Passed: 21
+Generated: Tue Mar 05 14:50:18 2024
+, Traffic Light ID: 4, Cars Passed: 19
+Generated: Tue Mar 05 14:50:21 2024
+, Traffic Light ID: 3, Cars Passed: 36
+Top 3 congested traffic lights at 1709630424 - 4 (Cars Passed: 1317), 2 (Cars Passed: 1142), 3 (Cars Passed: 1124), 
+Generated: Tue Mar 05 14:50:24 2024
+, Traffic Light ID: 3, Cars Passed: 31
+Generated: Tue Mar 05 14:50:27 2024
+, Traffic Light ID: 4, Cars Passed: 28
+Generated: Tue Mar 05 14:50:30 2024
+, Traffic Light ID: 3, Cars Passed: 50
+Generated: Tue Mar 05 14:50:33 2024
+, Traffic Light ID: 3, Cars Passed: 26
+Top 3 congested traffic lights at 1709630434 - 4 (Cars Passed: 1345), 3 (Cars Passed: 1231), 2 (Cars Passed: 1142), 
+Generated: Tue Mar 05 14:50:36 2024
+, Traffic Light ID: 4, Cars Passed: 25
+Generated: Tue Mar 05 14:50:39 2024
+, Traffic Light ID: 4, Cars Passed: 23
+Generated: Tue Mar 05 14:50:42 2024
+, Traffic Light ID: 2, Cars Passed: 32
+Top 3 congested traffic lights at 1709630444 - 4 (Cars Passed: 1393), 3 (Cars Passed: 1231), 2 (Cars Passed: 1174), 
+Generated: Tue Mar 05 14:50:45 2024
+, Traffic Light ID: 4, Cars Passed: 33
+Generated: Tue Mar 05 14:50:48 2024
+, Traffic Light ID: 1, Cars Passed: 44
+Generated: Tue Mar 05 14:50:51 2024
+, Traffic Light ID: 1, Cars Passed: 32
+Top 3 congested traffic lights at 1709630454 - 4 (Cars Passed: 1426), 3 (Cars Passed: 1231), 2 (Cars Passed: 1174), 
+Generated: Tue Mar 05 14:50:54 2024
+, Traffic Light ID: 3, Cars Passed: 43
+Generated: Tue Mar 05 14:50:57 2024
+, Traffic Light ID: 3, Cars Passed: 37
+Generated: Tue Mar 05 14:51:00 2024
+, Traffic Light ID: 5, Cars Passed: 1
+Generated: Tue Mar 05 14:51:03 2024
+, Traffic Light ID: 3, Cars Passed: 11
+Top 3 congested traffic lights at 1709630464 - 4 (Cars Passed: 1426), 3 (Cars Passed: 1322), 2 (Cars Passed: 1174), 
+Generated: Tue Mar 05 14:51:06 2024
+, Traffic Light ID: 4, Cars Passed: 25
+Generated: Tue Mar 05 14:51:09 2024
+, Traffic Light ID: 1, Cars Passed: 21
+Generated: Tue Mar 05 14:51:12 2024
+, Traffic Light ID: 1, Cars Passed: 34
+Top 3 congested traffic lights at 1709630474 - 4 (Cars Passed: 1451), 3 (Cars Passed: 1322), 2 (Cars Passed: 1174), 
+Generated: Tue Mar 05 14:51:15 2024
+, Traffic Light ID: 2, Cars Passed: 11
+Generated: Tue Mar 05 14:51:18 2024
+, Traffic Light ID: 2, Cars Passed: 18
+Generated: Tue Mar 05 14:51:21 2024
+, Traffic Light ID: 1, Cars Passed: 1
+Top 3 congested traffic lights at 1709630484 - 4 (Cars Passed: 1451), 3 (Cars Passed: 1322), 2 (Cars Passed: 1203), 
+Generated: Tue Mar 05 14:51:24 2024
+, Traffic Light ID: 1, Cars Passed: 45
+Generated: Tue Mar 05 14:51:27 2024
+, Traffic Light ID: 1, Cars Passed: 25
+Generated: Tue Mar 05 14:51:30 2024
+, Traffic Light ID: 5, Cars Passed: 26
+Generated: Tue Mar 05 14:51:33 2024
+, Traffic Light ID: 2, Cars Passed: 45
+Top 3 congested traffic lights at 1709630494 - 4 (Cars Passed: 1451), 3 (Cars Passed: 1322), 2 (Cars Passed: 1248), 
+Generated: Tue Mar 05 14:51:36 2024
+, Traffic Light ID: 4, Cars Passed: 3
+Generated: Tue Mar 05 14:51:39 2024
+, Traffic Light ID: 2, Cars Passed: 17
+Generated: Tue Mar 05 14:51:42 2024
+, Traffic Light ID: 4, Cars Passed: 44
+Top 3 congested traffic lights at 1709630504 - 4 (Cars Passed: 1498), 3 (Cars Passed: 1322), 2 (Cars Passed: 1265), 
+Generated: Tue Mar 05 14:51:45 2024
+, Traffic Light ID: 2, Cars Passed: 35
+Generated: Tue Mar 05 14:51:48 2024
+, Traffic Light ID: 4, Cars Passed: 15
+Generated: Tue Mar 05 14:51:51 2024
+, Traffic Light ID: 5, Cars Passed: 3
+Top 3 congested traffic lights at 1709630514 - 4 (Cars Passed: 1513), 3 (Cars Passed: 1322), 2 (Cars Passed: 1300), 
+Generated: Tue Mar 05 14:51:54 2024
+, Traffic Light ID: 1, Cars Passed: 38
+Generated: Tue Mar 05 14:51:57 2024
+, Traffic Light ID: 1, Cars Passed: 27
+Generated: Tue Mar 05 14:52:00 2024
+, Traffic Light ID: 1, Cars Passed: 8
+Generated: Tue Mar 05 14:52:03 2024
+, Traffic Light ID: 1, Cars Passed: 16
+Top 3 congested traffic lights at 1709630524 - 4 (Cars Passed: 1513), 3 (Cars Passed: 1322), 2 (Cars Passed: 1300), 
+Generated: Tue Mar 05 14:52:06 2024
+, Traffic Light ID: 2, Cars Passed: 28
+Generated: Tue Mar 05 14:52:09 2024
+, Traffic Light ID: 4, Cars Passed: 9
+Generated: Tue Mar 05 14:52:12 2024
+, Traffic Light ID: 5, Cars Passed: 10
+Top 3 congested traffic lights at 1709630534 - 4 (Cars Passed: 1522), 2 (Cars Passed: 1328), 3 (Cars Passed: 1322), 
+Generated: Tue Mar 05 14:52:15 2024
+, Traffic Light ID: 3, Cars Passed: 37
+Generated: Tue Mar 05 14:52:18 2024
+, Traffic Light ID: 1, Cars Passed: 38
+Generated: Tue Mar 05 14:52:21 2024
+, Traffic Light ID: 3, Cars Passed: 25
+Top 3 congested traffic lights at 1709630544 - 4 (Cars Passed: 1522), 3 (Cars Passed: 1384), 2 (Cars Passed: 1328), 
+Generated: Tue Mar 05 14:52:24 2024
+, Traffic Light ID: 1, Cars Passed: 28
+Generated: Tue Mar 05 14:52:27 2024
+, Traffic Light ID: 5, Cars Passed: 29
+Generated: Tue Mar 05 14:52:30 2024
+, Traffic Light ID: 4, Cars Passed: 21
+Generated: Tue Mar 05 14:52:33 2024
+, Traffic Light ID: 3, Cars Passed: 13
+Top 3 congested traffic lights at 1709630554 - 4 (Cars Passed: 1543), 3 (Cars Passed: 1397), 2 (Cars Passed: 1328), 
+Generated: Tue Mar 05 14:52:36 2024
+, Traffic Light ID: 4, Cars Passed: 47
+Generated: Tue Mar 05 14:52:39 2024
+, Traffic Light ID: 3, Cars Passed: 12
+Generated: Tue Mar 05 14:52:42 2024
+, Traffic Light ID: 1, Cars Passed: 26
+Top 3 congested traffic lights at 1709630564 - 4 (Cars Passed: 1590), 3 (Cars Passed: 1409), 2 (Cars Passed: 1328), 
+Generated: Tue Mar 05 14:52:45 2024
+, Traffic Light ID: 5, Cars Passed: 11
+Generated: Tue Mar 05 14:52:48 2024
+, Traffic Light ID: 3, Cars Passed: 17
+Generated: Tue Mar 05 14:52:51 2024
+, Traffic Light ID: 1, Cars Passed: 27
+Top 3 congested traffic lights at 1709630574 - 4 (Cars Passed: 1590), 3 (Cars Passed: 1426), 2 (Cars Passed: 1328), 
+Generated: Tue Mar 05 14:52:54 2024
+, Traffic Light ID: 2, Cars Passed: 22
+Generated: Tue Mar 05 14:52:57 2024
+, Traffic Light ID: 2, Cars Passed: 48
+Generated: Tue Mar 05 14:53:00 2024
+, Traffic Light ID: 4, Cars Passed: 21
+Generated: Tue Mar 05 14:53:03 2024
+, Traffic Light ID: 1, Cars Passed: 25
+Top 3 congested traffic lights at 1709630584 - 4 (Cars Passed: 1611), 3 (Cars Passed: 1426), 2 (Cars Passed: 1398), 
+Generated: Tue Mar 05 14:53:06 2024
+, Traffic Light ID: 4, Cars Passed: 14
+Generated: Tue Mar 05 14:53:09 2024
+, Traffic Light ID: 1, Cars Passed: 2
+Generated: Tue Mar 05 14:53:12 2024
+, Traffic Light ID: 3, Cars Passed: 30
+Top 3 congested traffic lights at 1709630594 - 4 (Cars Passed: 1625), 3 (Cars Passed: 1456), 2 (Cars Passed: 1398), 
+Generated: Tue Mar 05 14:53:15 2024
+, Traffic Light ID: 1, Cars Passed: 14
+Generated: Tue Mar 05 14:53:18 2024
+, Traffic Light ID: 4, Cars Passed: 29
+Generated: Tue Mar 05 14:53:21 2024
+, Traffic Light ID: 1, Cars Passed: 8
+Top 3 congested traffic lights at 1709630604 - 4 (Cars Passed: 1654), 3 (Cars Passed: 1456), 2 (Cars Passed: 1398), 
+Generated: Tue Mar 05 14:53:24 2024
+, Traffic Light ID: 3, Cars Passed: 1
+Generated: Tue Mar 05 14:53:27 2024
+, Traffic Light ID: 4, Cars Passed: 40
+Generated: Tue Mar 05 14:53:30 2024
+, Traffic Light ID: 4, Cars Passed: 11
+Generated: Tue Mar 05 14:53:33 2024
+, Traffic Light ID: 3, Cars Passed: 25
+Top 3 congested traffic lights at 1709630614 - 4 (Cars Passed: 1705), 3 (Cars Passed: 1482), 2 (Cars Passed: 1398), 
+Generated: Tue Mar 05 14:53:36 2024
+, Traffic Light ID: 3, Cars Passed: 9
+Generated: Tue Mar 05 14:53:39 2024
+, Traffic Light ID: 4, Cars Passed: 38
+Generated: Tue Mar 05 14:53:42 2024
+, Traffic Light ID: 2, Cars Passed: 1
+Top 3 congested traffic lights at 1709630624 - 4 (Cars Passed: 1743), 3 (Cars Passed: 1491), 2 (Cars Passed: 1399), 
+Generated: Tue Mar 05 14:53:45 2024
+, Traffic Light ID: 1, Cars Passed: 29
+Generated: Tue Mar 05 14:53:48 2024
+, Traffic Light ID: 4, Cars Passed: 35
+Generated: Tue Mar 05 14:53:51 2024
+, Traffic Light ID: 1, Cars Passed: 41
+Top 3 congested traffic lights at 1709630634 - 4 (Cars Passed: 1778), 3 (Cars Passed: 1491), 2 (Cars Passed: 1399), 
+Generated: Tue Mar 05 14:53:55 2024
+, Traffic Light ID: 2, Cars Passed: 5
+Generated: Tue Mar 05 14:53:58 2024
+, Traffic Light ID: 1, Cars Passed: 7
+Generated: Tue Mar 05 14:54:01 2024
+, Traffic Light ID: 3, Cars Passed: 1
+Generated: Tue Mar 05 14:54:04 2024
+, Traffic Light ID: 4, Cars Passed: 36
+Top 3 congested traffic lights at 1709630644 - 4 (Cars Passed: 1814), 3 (Cars Passed: 1492), 2 (Cars Passed: 1404), 
+Generated: Tue Mar 05 14:54:07 2024
+, Traffic Light ID: 2, Cars Passed: 17
+Generated: Tue Mar 05 14:54:10 2024
+, Traffic Light ID: 2, Cars Passed: 8
+Generated: Tue Mar 05 14:54:13 2024
+, Traffic Light ID: 2, Cars Passed: 8
+Top 3 congested traffic lights at 1709630654 - 4 (Cars Passed: 1814), 3 (Cars Passed: 1492), 2 (Cars Passed: 1437), 
+Generated: Tue Mar 05 14:54:16 2024
+, Traffic Light ID: 3, Cars Passed: 22
+Generated: Tue Mar 05 14:54:19 2024
+, Traffic Light ID: 5, Cars Passed: 12
+Generated: Tue Mar 05 14:54:22 2024
+, Traffic Light ID: 2, Cars Passed: 23
+Top 3 congested traffic lights at 1709630664 - 4 (Cars Passed: 1814), 3 (Cars Passed: 1514), 2 (Cars Passed: 1460), 
+Generated: Tue Mar 05 14:54:25 2024
+, Traffic Light ID: 3, Cars Passed: 13
+Generated: Tue Mar 05 14:54:28 2024
+, Traffic Light ID: 3, Cars Passed: 47
+Generated: Tue Mar 05 14:54:31 2024
+, Traffic Light ID: 1, Cars Passed: 42
+Generated: Tue Mar 05 14:54:34 2024
+, Traffic Light ID: 4, Cars Passed: 30
+Top 3 congested traffic lights at 1709630674 - 4 (Cars Passed: 1844), 3 (Cars Passed: 1574), 2 (Cars Passed: 1460), 
+Generated: Tue Mar 05 14:54:37 2024
+, Traffic Light ID: 5, Cars Passed: 16
+Generated: Tue Mar 05 14:54:40 2024
+, Traffic Light ID: 5, Cars Passed: 33
+Generated: Tue Mar 05 14:54:43 2024
+, Traffic Light ID: 2, Cars Passed: 6
+Top 3 congested traffic lights at 1709630684 - 4 (Cars Passed: 1844), 3 (Cars Passed: 1574), 2 (Cars Passed: 1466), 
+Generated: Tue Mar 05 14:54:46 2024
+, Traffic Light ID: 4, Cars Passed: 13
+Generated: Tue Mar 05 14:54:49 2024
+, Traffic Light ID: 5, Cars Passed: 35
+Generated: Tue Mar 05 14:54:52 2024
+, Traffic Light ID: 5, Cars Passed: 23
+Top 3 congested traffic lights at 1709630694 - 4 (Cars Passed: 1857), 3 (Cars Passed: 1574), 2 (Cars Passed: 1466), 
+Generated: Tue Mar 05 14:54:55 2024
+, Traffic Light ID: 3, Cars Passed: 20
+Generated: Tue Mar 05 14:54:58 2024
+, Traffic Light ID: 3, Cars Passed: 14
+Generated: Tue Mar 05 14:55:01 2024
+, Traffic Light ID: 3, Cars Passed: 34
+Generated: Tue Mar 05 14:55:04 2024
+, Traffic Light ID: 2, Cars Passed: 36
+Top 3 congested traffic lights at 1709630704 - 4 (Cars Passed: 1857), 3 (Cars Passed: 1642), 2 (Cars Passed: 1502), 
+Generated: Tue Mar 05 14:55:07 2024
+, Traffic Light ID: 3, Cars Passed: 49
+Generated: Tue Mar 05 14:55:10 2024
+, Traffic Light ID: 1, Cars Passed: 39
+Generated: Tue Mar 05 14:55:13 2024
+, Traffic Light ID: 4, Cars Passed: 43
+Top 3 congested traffic lights at 1709630714 - 4 (Cars Passed: 1900), 3 (Cars Passed: 1691), 2 (Cars Passed: 1502), 
+Generated: Tue Mar 05 14:55:16 2024
+, Traffic Light ID: 5, Cars Passed: 12
+Generated: Tue Mar 05 14:55:19 2024
+, Traffic Light ID: 2, Cars Passed: 26
+Generated: Tue Mar 05 14:55:22 2024
+, Traffic Light ID: 5, Cars Passed: 26
+Top 3 congested traffic lights at 1709630724 - 4 (Cars Passed: 1900), 3 (Cars Passed: 1691), 2 (Cars Passed: 1528), 
+Generated: Tue Mar 05 14:55:25 2024
+, Traffic Light ID: 2, Cars Passed: 21
+Generated: Tue Mar 05 14:55:28 2024
+, Traffic Light ID: 2, Cars Passed: 35
+Generated: Tue Mar 05 14:55:31 2024
+, Traffic Light ID: 1, Cars Passed: 34
+Generated: Tue Mar 05 14:55:34 2024
+, Traffic Light ID: 1, Cars Passed: 49
+Top 3 congested traffic lights at 1709630734 - 4 (Cars Passed: 1900), 3 (Cars Passed: 1691), 2 (Cars Passed: 1584), 
+Generated: Tue Mar 05 14:55:37 2024
+, Traffic Light ID: 5, Cars Passed: 2
+Generated: Tue Mar 05 14:55:40 2024
+, Traffic Light ID: 4, Cars Passed: 35
+Generated: Tue Mar 05 14:55:43 2024
+, Traffic Light ID: 3, Cars Passed: 35
+Top 3 congested traffic lights at 1709630744 - 4 (Cars Passed: 1935), 3 (Cars Passed: 1726), 2 (Cars Passed: 1584), 
+Generated: Tue Mar 05 14:55:46 2024
+, Traffic Light ID: 2, Cars Passed: 44
+Generated: Tue Mar 05 14:55:49 2024
+, Traffic Light ID: 2, Cars Passed: 6
+Generated: Tue Mar 05 14:55:52 2024
+, Traffic Light ID: 3, Cars Passed: 49
+Top 3 congested traffic lights at 1709630754 - 4 (Cars Passed: 1935), 3 (Cars Passed: 1775), 2 (Cars Passed: 1634), 
+Generated: Tue Mar 05 14:55:55 2024
+, Traffic Light ID: 2, Cars Passed: 1
+Generated: Tue Mar 05 14:55:58 2024
+, Traffic Light ID: 4, Cars Passed: 42
+Generated: Tue Mar 05 14:56:01 2024
+, Traffic Light ID: 1, Cars Passed: 6
+Generated: Tue Mar 05 14:56:04 2024
+, Traffic Light ID: 3, Cars Passed: 13
+Top 3 congested traffic lights at 1709630764 - 4 (Cars Passed: 1977), 3 (Cars Passed: 1788), 2 (Cars Passed: 1635), 
+Generated: Tue Mar 05 14:56:07 2024
+, Traffic Light ID: 2, Cars Passed: 28
+Generated: Tue Mar 05 14:56:10 2024
+, Traffic Light ID: 5, Cars Passed: 29
+Generated: Tue Mar 05 14:56:13 2024
+, Traffic Light ID: 3, Cars Passed: 44
+Top 3 congested traffic lights at 1709630774 - 4 (Cars Passed: 1977), 3 (Cars Passed: 1832), 2 (Cars Passed: 1663), 
+Generated: Tue Mar 05 14:56:16 2024
+, Traffic Light ID: 2, Cars Passed: 24
+Generated: Tue Mar 05 14:56:19 2024
+, Traffic Light ID: 1, Cars Passed: 14
+Generated: Tue Mar 05 14:56:22 2024
+, Traffic Light ID: 1, Cars Passed: 23
+Top 3 congested traffic lights at 1709630784 - 4 (Cars Passed: 1977), 3 (Cars Passed: 1832), 2 (Cars Passed: 1687), 
+Generated: Tue Mar 05 14:56:25 2024
+, Traffic Light ID: 4, Cars Passed: 11
+Generated: Tue Mar 05 14:56:28 2024
+, Traffic Light ID: 3, Cars Passed: 33
+Generated: Tue Mar 05 14:56:31 2024
+, Traffic Light ID: 3, Cars Passed: 46
+Generated: Tue Mar 05 14:56:34 2024
+, Traffic Light ID: 5, Cars Passed: 32
+Top 3 congested traffic lights at 1709630794 - 4 (Cars Passed: 1988), 3 (Cars Passed: 1911), 2 (Cars Passed: 1687), 
+Generated: Tue Mar 05 14:56:37 2024
+, Traffic Light ID: 1, Cars Passed: 39
+Generated: Tue Mar 05 14:56:40 2024
+, Traffic Light ID: 1, Cars Passed: 41
+Generated: Tue Mar 05 14:56:43 2024
+, Traffic Light ID: 3, Cars Passed: 40
+Top 3 congested traffic lights at 1709630804 - 4 (Cars Passed: 1988), 3 (Cars Passed: 1951), 2 (Cars Passed: 1687), 
+Generated: Tue Mar 05 14:56:46 2024
+, Traffic Light ID: 1, Cars Passed: 46
+Generated: Tue Mar 05 14:56:49 2024
+, Traffic Light ID: 4, Cars Passed: 15
+Generated: Tue Mar 05 14:56:52 2024
+, Traffic Light ID: 2, Cars Passed: 41
+Top 3 congested traffic lights at 1709630814 - 4 (Cars Passed: 2003), 3 (Cars Passed: 1951), 2 (Cars Passed: 1728), 
+Generated: Tue Mar 05 14:56:55 2024
+, Traffic Light ID: 5, Cars Passed: 9
+Generated: Tue Mar 05 14:56:58 2024
+, Traffic Light ID: 1, Cars Passed: 10
+Generated: Tue Mar 05 14:57:01 2024
+, Traffic Light ID: 3, Cars Passed: 6
+Generated: Tue Mar 05 14:57:04 2024
+, Traffic Light ID: 5, Cars Passed: 32
+Top 3 congested traffic lights at 1709630824 - 4 (Cars Passed: 2003), 3 (Cars Passed: 1957), 1 (Cars Passed: 1736), 
+Generated: Tue Mar 05 14:57:07 2024
+, Traffic Light ID: 4, Cars Passed: 30
+Generated: Tue Mar 05 14:57:10 2024
+, Traffic Light ID: 1, Cars Passed: 9
+Generated: Tue Mar 05 14:57:13 2024
+, Traffic Light ID: 3, Cars Passed: 48
+Top 3 congested traffic lights at 1709630834 - 4 (Cars Passed: 2033), 3 (Cars Passed: 2005), 1 (Cars Passed: 1745), 
+Generated: Tue Mar 05 14:57:16 2024
+, Traffic Light ID: 5, Cars Passed: 7
+Generated: Tue Mar 05 14:57:19 2024
+, Traffic Light ID: 2, Cars Passed: 28
+Generated: Tue Mar 05 14:57:22 2024
+, Traffic Light ID: 3, Cars Passed: 42
+Top 3 congested traffic lights at 1709630844 - 3 (Cars Passed: 2047), 4 (Cars Passed: 2033), 2 (Cars Passed: 1756), 
+Generated: Tue Mar 05 14:57:25 2024
+, Traffic Light ID: 5, Cars Passed: 41
+Generated: Tue Mar 05 14:57:28 2024
+, Traffic Light ID: 4, Cars Passed: 25
+Generated: Tue Mar 05 14:57:31 2024
+, Traffic Light ID: 2, Cars Passed: 28
+Top 3 congested traffic lights at 1709630854 - 4 (Cars Passed: 2058), 3 (Cars Passed: 2047), 2 (Cars Passed: 1784), 
+Generated: Tue Mar 05 14:57:34 2024
+, Traffic Light ID: 1, Cars Passed: 34
+Generated: Tue Mar 05 14:57:37 2024
+, Traffic Light ID: 4, Cars Passed: 43
+Generated: Tue Mar 05 14:57:40 2024
+, Traffic Light ID: 5, Cars Passed: 2
+Generated: Tue Mar 05 14:57:43 2024
+, Traffic Light ID: 3, Cars Passed: 10
+Top 3 congested traffic lights at 1709630864 - 4 (Cars Passed: 2101), 3 (Cars Passed: 2057), 2 (Cars Passed: 1784), 
+Generated: Tue Mar 05 14:57:46 2024
+, Traffic Light ID: 1, Cars Passed: 29
+Generated: Tue Mar 05 14:57:49 2024
+, Traffic Light ID: 3, Cars Passed: 35
+Generated: Tue Mar 05 14:57:52 2024
+, Traffic Light ID: 1, Cars Passed: 37
+Top 3 congested traffic lights at 1709630874 - 4 (Cars Passed: 2101), 3 (Cars Passed: 2092), 1 (Cars Passed: 1845), 
+Generated: Tue Mar 05 14:57:55 2024
+, Traffic Light ID: 4, Cars Passed: 21
+Generated: Tue Mar 05 14:57:58 2024
+, Traffic Light ID: 3, Cars Passed: 48
+Generated: Tue Mar 05 14:58:01 2024
+, Traffic Light ID: 5, Cars Passed: 4
+Top 3 congested traffic lights at 1709630884 - 3 (Cars Passed: 2140), 4 (Cars Passed: 2122), 1 (Cars Passed: 1845), 
+Generated: Tue Mar 05 14:58:04 2024
+, Traffic Light ID: 2, Cars Passed: 14
+Generated: Tue Mar 05 14:58:07 2024
+, Traffic Light ID: 2, Cars Passed: 14
+Generated: Tue Mar 05 14:58:10 2024
+, Traffic Light ID: 1, Cars Passed: 22
+Generated: Tue Mar 05 14:58:13 2024
+, Traffic Light ID: 5, Cars Passed: 41
+Top 3 congested traffic lights at 1709630894 - 3 (Cars Passed: 2140), 4 (Cars Passed: 2122), 1 (Cars Passed: 1867), 
+Generated: Tue Mar 05 14:58:16 2024
+, Traffic Light ID: 5, Cars Passed: 43
+Generated: Tue Mar 05 14:58:19 2024
+, Traffic Light ID: 5, Cars Passed: 14
+Generated: Tue Mar 05 14:58:22 2024
+, Traffic Light ID: 2, Cars Passed: 5
+Top 3 congested traffic lights at 1709630904 - 3 (Cars Passed: 2140), 4 (Cars Passed: 2122), 1 (Cars Passed: 1867), 
+Generated: Tue Mar 05 14:58:25 2024
+, Traffic Light ID: 4, Cars Passed: 33
+Generated: Tue Mar 05 14:58:28 2024
+, Traffic Light ID: 1, Cars Passed: 6
+Generated: Tue Mar 05 14:58:31 2024
+, Traffic Light ID: 1, Cars Passed: 40
+Top 3 congested traffic lights at 1709630914 - 4 (Cars Passed: 2155), 3 (Cars Passed: 2140), 1 (Cars Passed: 1913), 
+Generated: Tue Mar 05 14:58:34 2024
+, Traffic Light ID: 4, Cars Passed: 23
+Generated: Tue Mar 05 14:58:37 2024
+, Traffic Light ID: 4, Cars Passed: 48
+Generated: Tue Mar 05 14:58:40 2024
+, Traffic Light ID: 5, Cars Passed: 49
+Generated: Tue Mar 05 14:58:43 2024
+, Traffic Light ID: 2, Cars Passed: 15
+Top 3 congested traffic lights at 1709630924 - 4 (Cars Passed: 2226), 3 (Cars Passed: 2140), 1 (Cars Passed: 1913), 
+Generated: Tue Mar 05 14:58:46 2024
+, Traffic Light ID: 4, Cars Passed: 26
+Generated: Tue Mar 05 14:58:49 2024
+, Traffic Light ID: 1, Cars Passed: 13
+Generated: Tue Mar 05 14:58:52 2024
+, Traffic Light ID: 2, Cars Passed: 29
+Top 3 congested traffic lights at 1709630934 - 4 (Cars Passed: 2252), 3 (Cars Passed: 2140), 1 (Cars Passed: 1926), 
+Generated: Tue Mar 05 14:58:55 2024
+, Traffic Light ID: 5, Cars Passed: 13
+Generated: Tue Mar 05 14:58:58 2024
+, Traffic Light ID: 5, Cars Passed: 36
+Generated: Tue Mar 05 14:59:01 2024
+, Traffic Light ID: 5, Cars Passed: 45
+Top 3 congested traffic lights at 1709630944 - 4 (Cars Passed: 2252), 3 (Cars Passed: 2140), 1 (Cars Passed: 1926), 
+Generated: Tue Mar 05 14:59:04 2024
+, Traffic Light ID: 1, Cars Passed: 41
+Generated: Tue Mar 05 14:59:07 2024
+, Traffic Light ID: 1, Cars Passed: 9
+Generated: Tue Mar 05 14:59:10 2024
+, Traffic Light ID: 4, Cars Passed: 21
+Generated: Tue Mar 05 14:59:13 2024
+, Traffic Light ID: 2, Cars Passed: 24
+Top 3 congested traffic lights at 1709630954 - 4 (Cars Passed: 2273), 3 (Cars Passed: 2140), 1 (Cars Passed: 1976), 
+Generated: Tue Mar 05 14:59:16 2024
+, Traffic Light ID: 3, Cars Passed: 23
+Generated: Tue Mar 05 14:59:19 2024
+, Traffic Light ID: 3, Cars Passed: 38
+Generated: Tue Mar 05 14:59:22 2024
+, Traffic Light ID: 1, Cars Passed: 14
+Top 3 congested traffic lights at 1709630964 - 4 (Cars Passed: 2273), 3 (Cars Passed: 2201), 1 (Cars Passed: 1990), 
+Generated: Tue Mar 05 14:59:25 2024
+, Traffic Light ID: 2, Cars Passed: 4
+Generated: Tue Mar 05 14:59:29 2024
+, Traffic Light ID: 4, Cars Passed: 28
+Generated: Tue Mar 05 14:59:32 2024
+, Traffic Light ID: 1, Cars Passed: 20
+Top 3 congested traffic lights at 1709630974 - 4 (Cars Passed: 2301), 3 (Cars Passed: 2201), 1 (Cars Passed: 2010), 
+Generated: Tue Mar 05 14:59:35 2024
+, Traffic Light ID: 1, Cars Passed: 16
+Generated: Tue Mar 05 14:59:38 2024
+, Traffic Light ID: 4, Cars Passed: 44
+Generated: Tue Mar 05 14:59:41 2024
+, Traffic Light ID: 3, Cars Passed: 39
+Generated: Tue Mar 05 14:59:44 2024
+, Traffic Light ID: 4, Cars Passed: 38
+Top 3 congested traffic lights at 1709630984 - 4 (Cars Passed: 2383), 3 (Cars Passed: 2240), 1 (Cars Passed: 2026), 
+Generated: Tue Mar 05 14:59:47 2024
+, Traffic Light ID: 5, Cars Passed: 14
+Generated: Tue Mar 05 14:59:50 2024
+, Traffic Light ID: 5, Cars Passed: 32
+Generated: Tue Mar 05 14:59:53 2024
+, Traffic Light ID: 4, Cars Passed: 43
+Top 3 congested traffic lights at 1709630994 - 4 (Cars Passed: 2426), 3 (Cars Passed: 2240), 1 (Cars Passed: 2026), 
+Generated: Tue Mar 05 14:59:56 2024
+, Traffic Light ID: 4, Cars Passed: 11
+Generated: Tue Mar 05 14:59:59 2024
+, Traffic Light ID: 2, Cars Passed: 9
+Generated: Tue Mar 05 15:00:02 2024
+, Traffic Light ID: 5, Cars Passed: 39
+Top 3 congested traffic lights at 1709631004 - 4 (Cars Passed: 2437), 3 (Cars Passed: 2240), 1 (Cars Passed: 2026), 
+Generated: Tue Mar 05 15:00:05 2024
+, Traffic Light ID: 2, Cars Passed: 41
+Generated: Tue Mar 05 15:00:08 2024
+, Traffic Light ID: 5, Cars Passed: 44
+Generated: Tue Mar 05 15:00:11 2024
+, Traffic Light ID: 1, Cars Passed: 21
+Generated: Tue Mar 05 15:00:14 2024
+, Traffic Light ID: 4, Cars Passed: 18
+Top 3 congested traffic lights at 1709631014 - 4 (Cars Passed: 2455), 3 (Cars Passed: 2240), 1 (Cars Passed: 2047), 
+Generated: Tue Mar 05 15:00:17 2024
+, Traffic Light ID: 2, Cars Passed: 34
+Generated: Tue Mar 05 15:00:20 2024
+, Traffic Light ID: 1, Cars Passed: 27
+Generated: Tue Mar 05 15:00:23 2024
+, Traffic Light ID: 1, Cars Passed: 39
+Top 3 congested traffic lights at 1709631024 - 4 (Cars Passed: 2455), 3 (Cars Passed: 2240), 1 (Cars Passed: 2113), 
+Generated: Tue Mar 05 15:00:26 2024
+, Traffic Light ID: 4, Cars Passed: 30
+Generated: Tue Mar 05 15:00:29 2024
+, Traffic Light ID: 5, Cars Passed: 49
+Generated: Tue Mar 05 15:00:32 2024
+, Traffic Light ID: 4, Cars Passed: 10
+Top 3 congested traffic lights at 1709631034 - 4 (Cars Passed: 2495), 3 (Cars Passed: 2240), 1 (Cars Passed: 2113), 
+Generated: Tue Mar 05 15:00:35 2024
+, Traffic Light ID: 3, Cars Passed: 17
+Generated: Tue Mar 05 15:00:38 2024
+, Traffic Light ID: 5, Cars Passed: 6
+Generated: Tue Mar 05 15:00:41 2024
+, Traffic Light ID: 4, Cars Passed: 27
+Generated: Tue Mar 05 15:00:44 2024
+, Traffic Light ID: 2, Cars Passed: 26
+Top 3 congested traffic lights at 1709631044 - 4 (Cars Passed: 2522), 3 (Cars Passed: 2257), 1 (Cars Passed: 2113), 
+Generated: Tue Mar 05 15:00:47 2024
+, Traffic Light ID: 1, Cars Passed: 2
+Generated: Tue Mar 05 15:00:50 2024
+, Traffic Light ID: 5, Cars Passed: 47
+Generated: Tue Mar 05 15:00:53 2024
+, Traffic Light ID: 5, Cars Passed: 16
+Top 3 congested traffic lights at 1709631054 - 4 (Cars Passed: 2522), 3 (Cars Passed: 2257), 1 (Cars Passed: 2115), 
+Generated: Tue Mar 05 15:00:56 2024
+, Traffic Light ID: 5, Cars Passed: 43
+Generated: Tue Mar 05 15:00:59 2024
+, Traffic Light ID: 1, Cars Passed: 14
+Generated: Tue Mar 05 15:01:02 2024
+, Traffic Light ID: 3, Cars Passed: 47
+Top 3 congested traffic lights at 1709631064 - 4 (Cars Passed: 2522), 3 (Cars Passed: 2304), 1 (Cars Passed: 2129), 
+Generated: Tue Mar 05 15:01:05 2024
+, Traffic Light ID: 4, Cars Passed: 23
+Generated: Tue Mar 05 15:01:08 2024
+, Traffic Light ID: 2, Cars Passed: 7
+Generated: Tue Mar 05 15:01:11 2024
+, Traffic Light ID: 4, Cars Passed: 30
+Generated: Tue Mar 05 15:01:14 2024
+, Traffic Light ID: 5, Cars Passed: 6
+Top 3 congested traffic lights at 1709631074 - 4 (Cars Passed: 2575), 3 (Cars Passed: 2304), 1 (Cars Passed: 2129), 
+Generated: Tue Mar 05 15:01:17 2024
+, Traffic Light ID: 2, Cars Passed: 13
+Generated: Tue Mar 05 15:01:20 2024
+, Traffic Light ID: 1, Cars Passed: 44
+Generated: Tue Mar 05 15:01:23 2024
+, Traffic Light ID: 1, Cars Passed: 37
+Top 3 congested traffic lights at 1709631084 - 4 (Cars Passed: 2575), 3 (Cars Passed: 2304), 1 (Cars Passed: 2210), 
+Generated: Tue Mar 05 15:01:26 2024
+, Traffic Light ID: 2, Cars Passed: 42
+Generated: Tue Mar 05 15:01:29 2024
+, Traffic Light ID: 5, Cars Passed: 45
+Generated: Tue Mar 05 15:01:32 2024
+, Traffic Light ID: 2, Cars Passed: 3
+Top 3 congested traffic lights at 1709631094 - 4 (Cars Passed: 2575), 3 (Cars Passed: 2304), 1 (Cars Passed: 2210), 
+Generated: Tue Mar 05 15:01:35 2024
+, Traffic Light ID: 2, Cars Passed: 39
+Generated: Tue Mar 05 15:01:38 2024
+, Traffic Light ID: 3, Cars Passed: 6
+Generated: Tue Mar 05 15:01:41 2024
+, Traffic Light ID: 1, Cars Passed: 32
+Generated: Tue Mar 05 15:01:44 2024
+, Traffic Light ID: 1, Cars Passed: 42
+Top 3 congested traffic lights at 1709631104 - 4 (Cars Passed: 2575), 3 (Cars Passed: 2310), 1 (Cars Passed: 2284), 
+Generated: Tue Mar 05 15:01:47 2024
+, Traffic Light ID: 1, Cars Passed: 12
+Generated: Tue Mar 05 15:01:50 2024
+, Traffic Light ID: 3, Cars Passed: 37
+Generated: Tue Mar 05 15:01:53 2024
+, Traffic Light ID: 1, Cars Passed: 1
+Top 3 congested traffic lights at 1709631114 - 4 (Cars Passed: 2575), 3 (Cars Passed: 2347), 1 (Cars Passed: 2297), 
+Generated: Tue Mar 05 15:01:56 2024
+, Traffic Light ID: 3, Cars Passed: 35
+Generated: Tue Mar 05 15:01:59 2024
+, Traffic Light ID: 4, Cars Passed: 4
+Generated: Tue Mar 05 15:02:02 2024
+, Traffic Light ID: 2, Cars Passed: 3
+Top 3 congested traffic lights at 1709631124 - 4 (Cars Passed: 2579), 3 (Cars Passed: 2382), 1 (Cars Passed: 2297), 
+Generated: Tue Mar 05 15:02:05 2024
+, Traffic Light ID: 4, Cars Passed: 13
+Generated: Tue Mar 05 15:02:08 2024
+, Traffic Light ID: 4, Cars Passed: 5
+Generated: Tue Mar 05 15:02:11 2024
+, Traffic Light ID: 4, Cars Passed: 35
+Generated: Tue Mar 05 15:02:14 2024
+, Traffic Light ID: 4, Cars Passed: 7
+Top 3 congested traffic lights at 1709631134 - 4 (Cars Passed: 2639), 3 (Cars Passed: 2382), 1 (Cars Passed: 2297), 
+Generated: Tue Mar 05 15:02:17 2024
+, Traffic Light ID: 4, Cars Passed: 25
+Generated: Tue Mar 05 15:02:20 2024
+, Traffic Light ID: 3, Cars Passed: 14
+Generated: Tue Mar 05 15:02:23 2024
+, Traffic Light ID: 5, Cars Passed: 29
+Top 3 congested traffic lights at 1709631144 - 4 (Cars Passed: 2664), 3 (Cars Passed: 2396), 1 (Cars Passed: 2297), 
+Generated: Tue Mar 05 15:02:26 2024
+, Traffic Light ID: 1, Cars Passed: 31
+Generated: Tue Mar 05 15:02:29 2024
+, Traffic Light ID: 4, Cars Passed: 9
+Generated: Tue Mar 05 15:02:32 2024
+, Traffic Light ID: 1, Cars Passed: 6
+Top 3 congested traffic lights at 1709631154 - 4 (Cars Passed: 2673), 3 (Cars Passed: 2396), 1 (Cars Passed: 2334), 
+Generated: Tue Mar 05 15:02:35 2024
+, Traffic Light ID: 2, Cars Passed: 15
+Generated: Tue Mar 05 15:02:38 2024
+, Traffic Light ID: 4, Cars Passed: 27
+Generated: Tue Mar 05 15:02:41 2024
+, Traffic Light ID: 4, Cars Passed: 10
+Generated: Tue Mar 05 15:02:44 2024
+, Traffic Light ID: 3, Cars Passed: 12
+Top 3 congested traffic lights at 1709631164 - 4 (Cars Passed: 2710), 3 (Cars Passed: 2408), 1 (Cars Passed: 2334), 
+Generated: Tue Mar 05 15:02:47 2024
+, Traffic Light ID: 5, Cars Passed: 49
+Generated: Tue Mar 05 15:02:50 2024
+, Traffic Light ID: 3, Cars Passed: 4
+Generated: Tue Mar 05 15:04:06 2024
+, Traffic Light ID: 5, Cars Passed: 21
+Top 3 congested traffic lights at 1709631247 - 4 (Cars Passed: 2710), 3 (Cars Passed: 2412), 1 (Cars Passed: 2334), 
+Generated: Tue Mar 05 15:04:09 2024
+, Traffic Light ID: 3, Cars Passed: 24
+Generated: Tue Mar 05 15:04:12 2024
+, Traffic Light ID: 2, Cars Passed: 20
+Generated: Tue Mar 05 15:04:15 2024
+, Traffic Light ID: 4, Cars Passed: 10
+Top 3 congested traffic lights at 1709631257 - 4 (Cars Passed: 2720), 3 (Cars Passed: 2436), 1 (Cars Passed: 2334), 
+Generated: Tue Mar 05 15:04:18 2024
+, Traffic Light ID: 4, Cars Passed: 20
+Generated: Tue Mar 05 15:04:21 2024
+, Traffic Light ID: 2, Cars Passed: 4
+Generated: Tue Mar 05 15:04:24 2024
+, Traffic Light ID: 1, Cars Passed: 32
+Generated: Tue Mar 05 15:04:27 2024
+, Traffic Light ID: 5, Cars Passed: 43
+Top 3 congested traffic lights at 1709631267 - 4 (Cars Passed: 2740), 3 (Cars Passed: 2436), 1 (Cars Passed: 2366), 
+Generated: Tue Mar 05 15:04:30 2024
+, Traffic Light ID: 1, Cars Passed: 14
+Generated: Tue Mar 05 15:04:33 2024
+, Traffic Light ID: 4, Cars Passed: 40
+Generated: Tue Mar 05 15:04:36 2024
+, Traffic Light ID: 3, Cars Passed: 39
+Top 3 congested traffic lights at 1709631277 - 4 (Cars Passed: 2780), 3 (Cars Passed: 2475), 1 (Cars Passed: 2380), 
+Generated: Tue Mar 05 15:04:39 2024
+, Traffic Light ID: 3, Cars Passed: 11
+Generated: Tue Mar 05 15:04:42 2024
+, Traffic Light ID: 2, Cars Passed: 35
+Generated: Tue Mar 05 15:04:45 2024
+, Traffic Light ID: 4, Cars Passed: 12
+Top 3 congested traffic lights at 1709631287 - 4 (Cars Passed: 2792), 3 (Cars Passed: 2486), 1 (Cars Passed: 2380), 
+Generated: Tue Mar 05 15:04:48 2024
+, Traffic Light ID: 5, Cars Passed: 44
+Generated: Tue Mar 05 15:04:51 2024
+, Traffic Light ID: 1, Cars Passed: 20
+Generated: Tue Mar 05 15:04:54 2024
+, Traffic Light ID: 3, Cars Passed: 20
+Generated: Tue Mar 05 15:04:57 2024
+, Traffic Light ID: 4, Cars Passed: 1
+Top 3 congested traffic lights at 1709631297 - 4 (Cars Passed: 2793), 3 (Cars Passed: 2506), 1 (Cars Passed: 2400), 
+Generated: Tue Mar 05 15:05:00 2024
+, Traffic Light ID: 2, Cars Passed: 15
+Generated: Tue Mar 05 15:05:03 2024
+, Traffic Light ID: 3, Cars Passed: 16
+Generated: Tue Mar 05 15:05:06 2024
+, Traffic Light ID: 1, Cars Passed: 16
+Top 3 congested traffic lights at 1709631307 - 4 (Cars Passed: 2793), 3 (Cars Passed: 2522), 1 (Cars Passed: 2416), 
+Generated: Tue Mar 05 15:05:09 2024
+, Traffic Light ID: 1, Cars Passed: 40
+Generated: Tue Mar 05 15:05:12 2024
+, Traffic Light ID: 3, Cars Passed: 39
+Generated: Tue Mar 05 15:05:15 2024
+, Traffic Light ID: 3, Cars Passed: 5
+Top 3 congested traffic lights at 1709631317 - 4 (Cars Passed: 2793), 3 (Cars Passed: 2566), 1 (Cars Passed: 2456), 
+Generated: Tue Mar 05 15:05:18 2024
+, Traffic Light ID: 1, Cars Passed: 11
+Generated: Tue Mar 05 15:05:21 2024
+, Traffic Light ID: 5, Cars Passed: 25
+Generated: Tue Mar 05 15:05:24 2024
+, Traffic Light ID: 1, Cars Passed: 16
+Generated: Tue Mar 05 15:05:27 2024
+, Traffic Light ID: 2, Cars Passed: 42
+Top 3 congested traffic lights at 1709631327 - 4 (Cars Passed: 2793), 3 (Cars Passed: 2566), 1 (Cars Passed: 2483), 
